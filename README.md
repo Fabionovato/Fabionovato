@@ -1,6 +1,6 @@
 Bom dia.
 
-Tentando aprender como usar isso  - Git - e fã de programação, atualmente aprendendo e estudando linguagem C. 
+Tentando aprender como usar isso  - Git - e fã de programação, quero aprender linguagem C. 
 
 <!---
 Fabionovato/Fabionovato is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
